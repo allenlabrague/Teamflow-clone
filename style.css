@@ -513,6 +513,7 @@ p {
 
     .main-btn-gmail>button {
         width: 75%;
+        border-radius: 5px;
     }
 
     .main-graph>img {
